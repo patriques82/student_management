@@ -11,7 +11,7 @@ def addStudent():
 
 def display(students, id):
     for s in students:
-        if s["id"] == id:
+        if s["id"] == 88:
             return s
 
 def displayStudent():
